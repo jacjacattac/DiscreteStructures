@@ -1,4 +1,4 @@
-
+git
 # makefile for project 2 pass-off tests
 
 NUM:=2
