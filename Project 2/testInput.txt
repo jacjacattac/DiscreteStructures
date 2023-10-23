@@ -1,0 +1,10 @@
+*#comment
+'string':
+#Successful comment
+*+,::-
+Identifier2
+:$
+FactsRules
+''
+#|unfinished block comment
+except its actually finished|#:-
